@@ -2,7 +2,6 @@
 
 A modern expense sharing application that makes it easy to split bills with friends and keep track of who owes whom. Built with Next.js, Convex, and Clerk for authentication.
 
-![AI Splitwise Clone](./public/hero.png)
 
 ## Features
 
